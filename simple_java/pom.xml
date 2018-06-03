@@ -13,9 +13,9 @@
    </properties>
   
   <scm>
-        <connection>scm:git:https://github.com/sreelekha216/Maven_repo.git/simple_java/trunk</connection>
-        <developerConnection>scm:git:https://github.com/sreelekha216/Maven_repo.git/simple_java/trunk</developerConnection>
-      <tag>1.0_tags</tag>
+        <connection>scm:git:https://github.com/sreelekha216/Maven_repo.git</connection>
+        <developerConnection>scm:git:https://github.com/sreelekha216/Maven_repo.git</developerConnection>
+      <tag>1.1_tags</tag>
   </scm>
 	<build>
     <plugins>
